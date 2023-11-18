@@ -12,9 +12,6 @@
         "dest": "src/index.ts"
       }
     ],
-    "settings": {
-      "outputDirectory": "dist"
-    },
     "framework": {
       "notFound": "dist/index.js"
     }
